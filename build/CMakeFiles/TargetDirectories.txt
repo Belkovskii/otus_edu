@@ -1,3 +1,0 @@
-C:/OTUS_PRACTICE/otus_edu/build/CMakeFiles/homework2.dir
-C:/OTUS_PRACTICE/otus_edu/build/CMakeFiles/ALL_BUILD.dir
-C:/OTUS_PRACTICE/otus_edu/build/CMakeFiles/ZERO_CHECK.dir
